@@ -400,3 +400,4 @@ banner
 dependencies
 menu
 
+./socialphish.sh
